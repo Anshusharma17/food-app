@@ -2,7 +2,7 @@ import React from 'react'
 import "./header.css"
 
 function Header() {
-  //okay
+  
   return (
     <div className='header-main'>
       <div className='main'>
