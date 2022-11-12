@@ -1,3 +1,39 @@
-.header-main{
-    background-color: red;
+.header-main{ 
+     
+    background-color: #FFFFFF;
+    height: 45px;
+    padding: 2px;
+    opacity: 0.6;
+    visibility: visible;
+    border-radius: 10px;
+    box-shadow: 0 4px 80px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    color: #000000;
+    /* box-shadow: 0 4px 80px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center; */
+     
 }
+.main{
+    display: inline;
+}
+.header-list{
+    display: flex;
+}
+.a{
+    padding:  10px 20px;
+    float: left;
+}
+.b{
+    float: right;
+    padding:  10px 20px;
+}
+.item-list{
+    font-size: 16px;
+    font-weight: 20px;
+    display: block;
+    padding-right: 50px;
+    
+}
+.item-link{
+    text-decoration: none;
+}
+/* just pushing */
